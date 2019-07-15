@@ -14,3 +14,4 @@ jay garrick
 wally west
 savatar
 god of speed
+idiotic
