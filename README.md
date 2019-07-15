@@ -6,3 +6,11 @@ red
 blue
 white
 yellow
+text about speedsters
+flash
+reverse flash 
+zoom
+jay garrick
+wally west
+savatar
+god of speed
